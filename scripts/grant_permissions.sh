@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # Connect to the tech_care_africa database and grant permissions
 sudo -u postgres psql << EOF
 -- Connect to the tech_care_africa database
